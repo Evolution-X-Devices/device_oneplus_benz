@@ -1,0 +1,38 @@
+[
+  {
+    "repository": "vendor_oneplus_benz",
+    "target_path": "vendor/oneplus/benz",
+    "branch": "bka"
+  },
+  {
+    "repository": "LineageOS/android_hardware_oplus",
+    "target_path": "hardware/oplus",
+    "remote": "github-non-los",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "kernel_oneplus_sm8550",
+    "target_path": "kernel/oneplus/sm8550",
+    "branch": "bka"
+  },
+  {
+    "repository": "kernel_oneplus_sm8550-devicetrees",
+    "target_path": "kernel/oneplus/sm8550-devicetrees",
+    "branch": "bka"
+  },
+  {
+    "repository": "kernel_oneplus_sm8550-modules",
+    "target_path": "kernel/oneplus/sm8550-modules",
+    "branch": "bka"
+  },
+  {
+    "repository": "packages_apps_GameBar",
+    "target_path": "packages/apps/GameBar",
+    "branch": "bka"
+  },
+  {
+    "repository": "packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "branch": "bka"
+  }
+]
