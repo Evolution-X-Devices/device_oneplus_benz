@@ -2311,6 +2311,12 @@ odm/lib64/librfapis.so
 odm/lib64/libsubsys-service.so
 odm/lib64/libsubsys-utils.so
 odm/lib64/libvasapi.so
+<<<<<<< HEAD
+=======
+odm/lib64/vendor.oplus.hardware.communicationcenter-V2-ndk.so
+odm/lib64/vendor.oplus.hardware.subsys-V5-ndk.so
+odm/lib64/vendor.oplus.hardware.subsys_radio-V9-ndk.so
+>>>>>>> 32f7de8 (benz: Import changes from OOS 16.0.5.700)
 system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
 system_ext/etc/permissions/qcrilhook.xml
 system_ext/etc/permissions/qti_libpermissions.xml
