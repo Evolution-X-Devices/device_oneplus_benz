@@ -5,7 +5,7 @@
     "branch": "bka"
   },
   {
-    "repository": "LineageOS/android_hardware_oplus",
+    "repository": "crackedpotato007/android_hardware_oplus",
     "target_path": "hardware/oplus",
     "remote": "github-non-los",
     "branch": "lineage-23.2"
