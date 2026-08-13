@@ -41,6 +41,13 @@ vendor/etc/acdbdata/nn_ns_models/fai__4.8.4_0.0__3.0.0_0.0__3.1.1_0.0__3.2.0_0.1
 vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.36_enpu2.pmd
 vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_2.10_enpuv3.pmd
 
+#LHDC
+system/lib64/liblhdc.so
+system/lib64/liblhdcBT_enc.so
+system/lib64/liblhdcv5.so
+system/lib64/liblhdcv5BT_enc.so
+
+
 # ADSP
 vendor/bin/adsprpcd
 vendor/bin/loadalgo
